@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stennas — a relentless learner, habit builder, and future data scientist.
+- 👋 Hi, I’m Stennas — a relentless learner, habit builder, and Data scientist.
 - 💻 Currently building meaningful tools in Python (like my CLI Habit Tracker)
 - 🧠 Learning through projects, one line at a time — blending tech, grit, and purpose.
 - 🎯 Long-term mission: build AI tools that transform education and unlock human potential.
