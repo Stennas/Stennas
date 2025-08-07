@@ -4,8 +4,3 @@
 - 🎯 Long-term mission: build AI tools that transform education and unlock human potential.
 - 🏋🏽‍♂️ Lover of calisthenics, quiet discipline, and poetic code.
 - 📫 How to reach me @gmail: stephennsa2020@gmail.com
-
-<!---
-Stennas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
