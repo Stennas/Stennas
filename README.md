@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Stennas — a relentless learner, habit builder, and Data scientist.
-- 💻 Currently building meaningful tools in Python (like my CLI Habit Tracker, SmartBurn, Trader's SmartJournal)
+- 👋 Hi, I’m Stennas — a Data scientist, relentless learner, and habit builder.
+- 💻 Currently building meaningful tools in Python (like my CLI Habit Tracker, Calories Burn Predictor (SmartBurn), and Trader's Smart Analytical Journal (SmartJournal).
 - 🧠 Learning through projects, one line at a time — blending tech, grit, and purpose.
 - 🎯 Long-term mission: build AI tools that transform education and unlock human potential.
 - 🏋🏽‍♂️ Lover of calisthenics, quiet discipline, and poetic code.
-- 📫 How to reach me @gmail: stephennsa2020@gmail.com
+- 📫 How to reach me
+  - @gmail: stephennsa2020@gmail.com
+  - @Linkedin: www.linkedin.com/in/stephen-nsa-518632354
