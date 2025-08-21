@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stennas — a Data scientist, relentless learner, and habit builder.
-- 💻 Currently building meaningful tools in Python (like my CLI Habit Tracker, Calories Burn Predictor (SmartBurn), and Trader's Smart Analytical Journal (SmartJournal).
+- 💻 Currently building meaningful tools in Python, like my CLI Habit Tracker, Calories Burn Predictor (SmartBurn), and Trader's Smart Analytical Journal (SmartJournal).
 - 🧠 Learning through projects, one line at a time — blending tech, grit, and purpose.
 - 🎯 Long-term mission: build AI tools that transform education and unlock human potential.
 - 🏋🏽‍♂️ Lover of calisthenics, quiet discipline, and poetic code.
